@@ -1,7 +1,7 @@
 {
-  "versionCode": 75,
-  "versionName": "8.0.41",
-  "apkUrl": "https://github.com/hsm20001026-create/newstyle-updates/releases/download/v8.0.41/newstyle-8.0.41.apk",
-  "notes": "가운데 모드: 한글 블록 붙여 가운데, 숫자 격자 한글과 같은 크기, 기호 격자 높이 영문과 같게",
-  "sha256": "88f535a9cb764617eaad551971626865461bdcd25916134568be599ca19ae7f6"
+  "versionCode": 76,
+  "versionName": "8.0.42",
+  "apkUrl": "https://github.com/hsm20001026-create/newstyle-updates/releases/download/v8.0.42/newstyle-8.0.42.apk",
+  "notes": "키 반짝임을 누르는 순간 50ms로 되돌림, 길게 누르기는 반짝임 없음",
+  "sha256": "434f2f270fd4ceeffcd80f9510d40be13e1f8c0108677df8273e7da869e18e18"
 }
