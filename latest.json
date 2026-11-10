@@ -1,7 +1,7 @@
 {
-  "versionCode": 80,
-  "versionName": "8.0.46",
-  "apkUrl": "https://github.com/hsm20001026-create/newstyle-updates/releases/download/v8.0.46/newstyle-8.0.46.apk",
-  "notes": "가운데 모드 한글·숫자 키 블록 2mm 오른쪽",
-  "sha256": "66f59487b5ddac093a62d95517441502d3b50f0cc841292c1618fc2c0a06e64f"
+  "versionCode": 81,
+  "versionName": "8.0.47",
+  "apkUrl": "https://github.com/hsm20001026-create/newstyle-updates/releases/download/v8.0.47/newstyle-8.0.47.apk",
+  "notes": "이름 이현아가 잉연아로 바뀌던 것 수정",
+  "sha256": "dbf05d35f2080d69288b588d6c34d156f31f7727fedbbd13a241e227001e5323"
 }
