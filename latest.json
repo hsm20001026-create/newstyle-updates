@@ -1,7 +1,7 @@
 {
-  "versionCode": 82,
-  "versionName": "8.0.48",
-  "apkUrl": "https://github.com/hsm20001026-create/newstyle-updates/releases/download/v8.0.48/newstyle-8.0.48.apk",
-  "notes": "잉연아는 언제나 이현아로 (띄어쓰기 없이, 조사 포함)",
-  "sha256": "b31e38e0b4ded5f92deb64daa689ac80bf8a0d7471ad618741ad8fa1f1a52e7f"
+  "versionCode": 83,
+  "versionName": "8.0.49",
+  "apkUrl": "https://github.com/hsm20001026-create/newstyle-updates/releases/download/v8.0.49/newstyle-8.0.49.apk",
+  "notes": "⟳ 메뉴 톱니바퀴(설정)·집 아이콘, 가운데 모드 한글 키 좌우 위치 설정",
+  "sha256": "02f202ecb369601017f4270a38df829357ba49bbab9a709883ace9a5effcec51"
 }
