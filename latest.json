@@ -1,7 +1,7 @@
 {
-  "versionCode": 81,
-  "versionName": "8.0.47",
-  "apkUrl": "https://github.com/hsm20001026-create/newstyle-updates/releases/download/v8.0.47/newstyle-8.0.47.apk",
-  "notes": "이름 이현아가 잉연아로 바뀌던 것 수정",
-  "sha256": "dbf05d35f2080d69288b588d6c34d156f31f7727fedbbd13a241e227001e5323"
+  "versionCode": 82,
+  "versionName": "8.0.48",
+  "apkUrl": "https://github.com/hsm20001026-create/newstyle-updates/releases/download/v8.0.48/newstyle-8.0.48.apk",
+  "notes": "잉연아는 언제나 이현아로 (띄어쓰기 없이, 조사 포함)",
+  "sha256": "b31e38e0b4ded5f92deb64daa689ac80bf8a0d7471ad618741ad8fa1f1a52e7f"
 }
