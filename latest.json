@@ -1,7 +1,7 @@
 {
-  "versionCode": 76,
-  "versionName": "8.0.42",
-  "apkUrl": "https://github.com/hsm20001026-create/newstyle-updates/releases/download/v8.0.42/newstyle-8.0.42.apk",
-  "notes": "키 반짝임을 누르는 순간 50ms로 되돌림, 길게 누르기는 반짝임 없음",
-  "sha256": "434f2f270fd4ceeffcd80f9510d40be13e1f8c0108677df8273e7da869e18e18"
+  "versionCode": 77,
+  "versionName": "8.0.43",
+  "apkUrl": "https://github.com/hsm20001026-create/newstyle-updates/releases/download/v8.0.43/newstyle-8.0.43.apk",
+  "notes": "사람 이름 자동 교정 안 함, 한글 키 글자 ×0.95, 숫자 ×0.90",
+  "sha256": "7fad2a0d1d9cf3ac6a65571a340955cb1b10983bd89b5d5aad67d4ee66d9776f"
 }
