@@ -1,7 +1,7 @@
 {
-  "versionCode": 78,
-  "versionName": "8.0.44",
-  "apkUrl": "https://github.com/hsm20001026-create/newstyle-updates/releases/download/v8.0.44/newstyle-8.0.44.apk",
-  "notes": "기호·숫자·가 글자 아주 살짝 굵게, 보공왁인→보고 확인",
-  "sha256": "de69bb6cbcd27ee2fb0016546dbd50d2a7c4d475ec23376c01e50e9d700b10ad"
+  "versionCode": 79,
+  "versionName": "8.0.45",
+  "apkUrl": "https://github.com/hsm20001026-create/newstyle-updates/releases/download/v8.0.45/newstyle-8.0.45.apk",
+  "notes": "숫자 굵기 살짝 더, 가운데 모드 한글·숫자 키 2mm 위로·3mm 왼쪽",
+  "sha256": "e7cee8bee8a1b0ff0e164594169bd659897e1b67d65210f6e9842be06a84e887"
 }
