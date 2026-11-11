@@ -1,7 +1,7 @@
 {
-  "versionCode": 87,
-  "versionName": "8.0.53",
-  "apkUrl": "https://github.com/hsm20001026-create/newstyle-updates/releases/download/v8.0.53/newstyle-8.0.53.apk",
-  "notes": "⟳ 메뉴 칸 위치 맞춤, 기호 화면 밀림 수정, 막대 값 말풍선",
-  "sha256": "cfbb530cf2f88048371810c9fa3f800512b612b94b4e2fd6c22623c7e9918f33"
+  "versionCode": 88,
+  "versionName": "8.0.54",
+  "apkUrl": "https://github.com/hsm20001026-create/newstyle-updates/releases/download/v8.0.54/newstyle-8.0.54.apk",
+  "notes": "좌우·위아래 막대 3초 후 숨김",
+  "sha256": "46a2958bc87441ce8461c7eb0e535e2fa07406fe29f7e4f0d6613a508bc6b962"
 }
