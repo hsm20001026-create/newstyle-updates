@@ -1,7 +1,7 @@
 {
-  "versionCode": 88,
-  "versionName": "8.0.54",
-  "apkUrl": "https://github.com/hsm20001026-create/newstyle-updates/releases/download/v8.0.54/newstyle-8.0.54.apk",
-  "notes": "좌우·위아래 막대 3초 후 숨김",
-  "sha256": "46a2958bc87441ce8461c7eb0e535e2fa07406fe29f7e4f0d6613a508bc6b962"
+  "versionCode": 89,
+  "versionName": "8.0.55",
+  "apkUrl": "https://github.com/hsm20001026-create/newstyle-updates/releases/download/v8.0.55/newstyle-8.0.55.apk",
+  "notes": "오타 수정: 보내려고 한거야",
+  "sha256": "558536a2b5b9f8f48d4df8fec2b21c61ef7114be22c88d9169be091ca417c99a"
 }
