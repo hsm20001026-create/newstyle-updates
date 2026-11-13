@@ -1,7 +1,7 @@
 {
-  "versionCode": 90,
-  "versionName": "8.0.56",
-  "apkUrl": "https://github.com/hsm20001026-create/newstyle-updates/releases/download/v8.0.56/newstyle-8.0.56.apk",
-  "notes": "오타 수정: 영상통화하기가",
-  "sha256": "96af0306ac57726a2eb3f7c11fecfb98c1236961275156573e77b91ecbf8de8a"
+  "versionCode": 91,
+  "versionName": "8.0.57",
+  "apkUrl": "https://github.com/hsm20001026-create/newstyle-updates/releases/download/v8.0.57/newstyle-8.0.57.apk",
+  "notes": "오타 수정: 해주기",
+  "sha256": "ff9640638bfd40f66ff8da4b9dcc25f3188bd363ec94a101a1cbf94ac6db2bb4"
 }
