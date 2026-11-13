@@ -1,7 +1,7 @@
 {
-  "versionCode": 94,
-  "versionName": "8.0.60",
-  "apkUrl": "https://github.com/hsm20001026-create/newstyle-updates/releases/download/v8.0.60/newstyle-8.0.60.apk",
-  "notes": "톱니 막대에 노란 높이 막대 추가",
-  "sha256": "fb01e4cc5394b59217781d514bd31c0cb47ad8be35052520c9223fca8a32d6a1"
+  "versionCode": 95,
+  "versionName": "8.0.61",
+  "apkUrl": "https://github.com/hsm20001026-create/newstyle-updates/releases/download/v8.0.61/newstyle-8.0.61.apk",
+  "notes": "가운데 모드 윗선이 키에 딱 붙음, 애들은 교정 안 함",
+  "sha256": "bcd13d2e9bff88baca78ac5f8f2c08146b2d2df9aa61a6efd196181f9fa541f9"
 }
