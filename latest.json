@@ -1,7 +1,7 @@
 {
-  "versionCode": 103,
-  "versionName": "8.0.69",
-  "apkUrl": "https://github.com/hsm20001026-create/newstyle-updates/releases/download/v8.0.69/newstyle-8.0.69.apk",
-  "notes": "스페이스 사전 자동교정 끔, 지정 문자열만 유지",
-  "sha256": "e8bbf082fd1202f7b1b9df6dc63402e0bb7bafa19afcc511e04eccf821a8c388"
+  "versionCode": 104,
+  "versionName": "8.0.70",
+  "apkUrl": "https://github.com/hsm20001026-create/newstyle-updates/releases/download/v8.0.70/newstyle-8.0.70.apk",
+  "notes": "전체 모드 위아래 위치, 설정 슬라이더 정리, 집 버튼 = 앱 설정",
+  "sha256": "3a4d714f0f684013edb833242640e6f47f7b213d5e3997e995ea34be4619c513"
 }
