@@ -1,7 +1,7 @@
 {
-  "versionCode": 96,
-  "versionName": "8.0.62",
-  "apkUrl": "https://github.com/hsm20001026-create/newstyle-updates/releases/download/v8.0.62/newstyle-8.0.62.apk",
-  "notes": "키 눌림 표시 누르는 동안 유지, 짧은 키 진동",
-  "sha256": "80497350eab900b1cca357a0f43abf0b16c5e5e4a58a78a165b1f04293f3ce24"
+  "versionCode": 97,
+  "versionName": "8.0.63",
+  "apkUrl": "https://github.com/hsm20001026-create/newstyle-updates/releases/download/v8.0.63/newstyle-8.0.63.apk",
+  "notes": "업데이트 확인 창이 여러 번 뜨던 문제 수정",
+  "sha256": "bbc38977418976b1cfe2af799a9bfcc02400fb7438f22e68494e4b0ef8a2bf37"
 }
