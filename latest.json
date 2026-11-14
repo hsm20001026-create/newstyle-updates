@@ -1,7 +1,7 @@
 {
-  "versionCode": 105,
-  "versionName": "8.0.71",
-  "apkUrl": "https://github.com/hsm20001026-create/newstyle-updates/releases/download/v8.0.71/newstyle-8.0.71.apk",
+  "versionCode": 106,
+  "versionName": "8.0.72",
+  "apkUrl": "https://github.com/hsm20001026-create/newstyle-updates/releases/download/v8.0.72/newstyle-8.0.72.apk",
   "notes": "입력 반응 지연 수정",
   "sha256": "a66be5e3f0d5ec80cf34aa5fa6a696cc2ae8bd8362c8f2bef57ad2b6a06c7b1f"
 }
