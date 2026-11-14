@@ -1,7 +1,7 @@
 {
-  "versionCode": 107,
-  "versionName": "8.0.73",
-  "apkUrl": "https://github.com/hsm20001026-create/newstyle-updates/releases/download/v8.0.73/newstyle-8.0.73.apk",
-  "notes": "한글 자모 획 조금 더 굵게",
-  "sha256": "352818ad7d5ad5e47c5b1d6f6886eec76430cfe123c17766c53866c0e4021a6c"
+  "versionCode": 108,
+  "versionName": "8.0.74",
+  "apkUrl": "https://github.com/hsm20001026-create/newstyle-updates/releases/download/v8.0.74/newstyle-8.0.74.apk",
+  "notes": "한글 자모 3% 크게, 획 조금 더 굵게",
+  "sha256": "1da31143896e055db4ed7b39f85dd2ea22a9fd7bba27da80ee15a9b9e163185a"
 }
