@@ -1,7 +1,7 @@
 {
-  "versionCode": 106,
-  "versionName": "8.0.72",
-  "apkUrl": "https://github.com/hsm20001026-create/newstyle-updates/releases/download/v8.0.72/newstyle-8.0.72.apk",
-  "notes": "전체 모드 오른쪽 게이지로 키보드 높이 조절(아랫줄 고정)",
-  "sha256": "28d718e55652a6521e92f74698b597db289b0dcea78823f24d54d1056b9e079d"
+  "versionCode": 107,
+  "versionName": "8.0.73",
+  "apkUrl": "https://github.com/hsm20001026-create/newstyle-updates/releases/download/v8.0.73/newstyle-8.0.73.apk",
+  "notes": "한글 자모 획 조금 더 굵게",
+  "sha256": "352818ad7d5ad5e47c5b1d6f6886eec76430cfe123c17766c53866c0e4021a6c"
 }
