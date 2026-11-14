@@ -1,7 +1,7 @@
 {
-  "versionCode": 108,
-  "versionName": "8.0.74",
-  "apkUrl": "https://github.com/hsm20001026-create/newstyle-updates/releases/download/v8.0.74/newstyle-8.0.74.apk",
-  "notes": "한글 자모 3% 크게, 획 조금 더 굵게",
-  "sha256": "1da31143896e055db4ed7b39f85dd2ea22a9fd7bba27da80ee15a9b9e163185a"
+  "versionCode": 109,
+  "versionName": "8.0.75",
+  "apkUrl": "https://github.com/hsm20001026-create/newstyle-updates/releases/download/v8.0.75/newstyle-8.0.75.apk",
+  "notes": "글자 키를 누르는 순간 바로 입력(입력 지연 체감 개선)",
+  "sha256": "45503eb17caea46201f0786ef133a29565cbb5b9ce1477fcbe47c51a1d3d6d8b"
 }
