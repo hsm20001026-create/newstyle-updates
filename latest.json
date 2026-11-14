@@ -1,7 +1,7 @@
 {
-  "versionCode": 101,
-  "versionName": "8.0.67",
-  "apkUrl": "https://github.com/hsm20001026-create/newstyle-updates/releases/download/v8.0.67/newstyle-8.0.67.apk",
-  "notes": "첫 글자 지연 수정, 눌림 노란색 밝게, 가장 가까운 키 판정",
-  "sha256": "039a21aa1f3912a57059974edf0ed14422d005d0cb6a6398cb6f01027428fd8c"
+  "versionCode": 102,
+  "versionName": "8.0.68",
+  "apkUrl": "https://github.com/hsm20001026-create/newstyle-updates/releases/download/v8.0.68/newstyle-8.0.68.apk",
+  "notes": "이라공안다 → 이라고한다",
+  "sha256": "e735c9cdd81feaa31b7de3851bf52e0f92f0d4a9e1fc689b25f00fad2269eb7f"
 }
